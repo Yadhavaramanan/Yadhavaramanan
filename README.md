@@ -1,5 +1,5 @@
-[![MasterHead](https://cdn.dribbble.com/users/173556/screenshots/2405185/media/e91eb2fae38328fef1dc5d7ef51f7226.gif
-)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif)
+](https://rishavchanda.io)
 
 
 # 💫 About Me:
