@@ -1,8 +1,9 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 # 💫 About Me:
-👋 Hi, I'm @Yadhavaramanan<br>🎓 Pursuing a degree in Artificial Intelligence and Machine Learning<br>🐍 Currently diving deep into Python Programming<br>☕ Expanding my knowledge of Java<br><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-🤝 Open to collaborating on innovative technology and creative coding ventures<br>📬 Reach out to me for any exciting collaboration or just to chat about tech!
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/173556/screenshots/2405185/media/e91eb2fae38328fef1dc5d7ef51f7226.gif">
+👋 Hi, I'm @Yadhavaramanan<br>🎓 Pursuing a degree in Artificial Intelligence and Machine Learning<br>🐍 Currently diving deep into Python Programming<br>☕ Expanding my knowledge of Java<br>
+🤝 Open to collaborating on innovative technology and creative coding ventures<br>📬 Reach out to me for any exciting collaboration or just to chat about tech!
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/QkTHKRgJtPr7pM59/?mibextid=qi2Omg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/smarty_yadhav_2804?igsh=cm9ienpmZHR4eWZh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yadhavaramanan-c-035248259/) 
 
