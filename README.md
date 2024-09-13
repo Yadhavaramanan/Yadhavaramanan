@@ -1,7 +1,7 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=126663808259169636" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
-
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 # 💫 About Me:
 👋 Hi, I'm @Yadhavaramanan<br>🎓 Pursuing a degree in Artificial Intelligence and Machine Learning<br>🐍 Currently diving deep into Python Programming<br>☕ Expanding my knowledge of Java<br>🤝 Open to collaborating on innovative technology and creative coding ventures<br>📬 Reach out to me for any exciting collaboration or just to chat about tech!
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 ## 🌐 Socials:
