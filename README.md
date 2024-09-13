@@ -1,7 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif)
-](https://rishavchanda.io)
-
-
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/173556/screenshots/2405185/media/e91eb2fae38328fef1dc5d7ef51f7226.gif">
 👋 Hi, I'm @Yadhavaramanan<br>🎓 Pursuing a degree in Artificial Intelligence and Machine Learning<br>🐍 Currently diving deep into Python Programming<br>☕ Expanding my knowledge of Java<br>
