@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/37/2f/eb/372feb0a244ef584641b4b53571b081c.gif)
+[![MasterHead](https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif)
 ](https://rishavchanda.io)
 
 
