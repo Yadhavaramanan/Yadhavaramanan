@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/37/2f/eb/372feb0a244ef584641b4b53571b081c.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/37/2f/eb/372feb0a244ef584641b4b53571b081c.gif)
+](https://rishavchanda.io)
 
 
 # 💫 About Me:
