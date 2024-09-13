@@ -1,3 +1,5 @@
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=126663808259169636" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+
 # 💫 About Me:
 👋 Hi, I'm @Yadhavaramanan<br>🎓 Pursuing a degree in Artificial Intelligence and Machine Learning<br>🐍 Currently diving deep into Python Programming<br>☕ Expanding my knowledge of Java<br>🤝 Open to collaborating on innovative technology and creative coding ventures<br>📬 Reach out to me for any exciting collaboration or just to chat about tech!
 
